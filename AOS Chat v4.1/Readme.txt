@@ -6,4 +6,4 @@ Updates -
 - Public chats
 - Fixed file upload
 - Seprated public and private file upload
-
+- Added the AOS flag image to the main screen
